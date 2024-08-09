@@ -81,6 +81,7 @@ This project uses the following libraries:
 "# spotify-mix-algorithm"  git init git add README.md git commit -m "initial commit" git branch -M main git remote add origin https://github.com/dmunasingha/spotify-mix-algorithm.git git push -u origin main
 "# spotify-mix-algorithm" 
 
+```
 ---
 
 ## Contact
